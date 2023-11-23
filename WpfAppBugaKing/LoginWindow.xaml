@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfAppBugaKing.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppBugaKing"
+        mc:Ignorable="d"
+        Title="BugaKing" Height="270" Width="400"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Label Content="Номер телефона:" />
+            <TextBox Name="usernameTextBox" />
+
+            <Label Content="Пароль:" />
+            <PasswordBox Name="passwordBox" />
+
+            <Button Content="Войти" Click="Login_Click"/>
+            <Button Content="Зарегистрироваться" Click="Register_Click"/>
+            <TextBlock x:Name="LogError" Foreground="Red" Visibility="Hidden"/>
+            <Image Source="img/image.png" Width="80" Height="80" VerticalAlignment="Bottom" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,69 @@
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.AssemblyReference.cache
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\App.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing_MarkupCompile.cache
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing_MarkupCompile.lref
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\WpfAppBugaKing.exe.config
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\WpfAppBugaKing.exe
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\WpfAppBugaKing.pdb
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.g.resources
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.Properties.Resources.resources
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.GenerateResource.cache
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.CoreCompileInputs.cache
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.exe
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.pdb
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\LoginWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\LoginWindow.baml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainClientWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainClientWindow.baml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.dll
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.xml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.SqlServer.xml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\ru\EntityFramework.resources.dll
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainAdminWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainManagerWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing_Content.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainAdminWindow.baml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainManagerWindow.baml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.CopyComplete
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\CardWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\RegisterWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\CardWindow.baml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\RegisterWindow.baml
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MyOrdersWindow.g.cs
+D:\Source\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MyOrdersWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\WpfAppBugaKing.exe.config
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\WpfAppBugaKing.exe
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\WpfAppBugaKing.pdb
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.dll
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.xml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.AssemblyReference.cache
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.SuggestedBindingRedirects.cache
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\CardWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\LoginWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainAdminWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainClientWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainManagerWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MyOrdersWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\RegisterWindow.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\App.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing_Content.g.cs
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing_MarkupCompile.cache
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing_MarkupCompile.lref
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\CardWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\LoginWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainAdminWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainClientWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MainManagerWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\MyOrdersWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\RegisterWindow.baml
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.g.resources
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.Properties.Resources.resources
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.GenerateResource.cache
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.CoreCompileInputs.cache
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.csproj.CopyComplete
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.exe
+C:\Users\lopas\OneDrive\Рабочий стол\WpfAppBugaKing\WpfAppBugaKing\obj\Debug\WpfAppBugaKing.pdb
